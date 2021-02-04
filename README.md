@@ -15,3 +15,6 @@ Custom eslint plugin to throw error when number of lines in a arrow function is 
     "arrow-functions-body-length/no-lengthy-arrow-functions": 1
   }
 }
+
+arrow-functions-body-length - plugin name defined in package.json
+no-lengthy-arrow-functions - rule name as defined in index.js
