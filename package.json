@@ -1,0 +1,5 @@
+{
+  "name": "eslint-plugin-arrow-functions-body-length",
+  "version": "1.0.0",
+  "main": "index.js"
+}
